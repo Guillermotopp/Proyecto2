@@ -165,7 +165,8 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://github.com/Guillermotopp/Proyecto2/blob/main/img/Fondo.jpg");
+    background-color: red;
+    background-image: url("https://github.com/Guillermotopp/Proyecto2/blob/main/img/Fondo.jpg");
     height: 100vh;
     color: #fff;
     min-height: 500px;
