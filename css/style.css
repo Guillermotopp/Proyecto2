@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background-color: red;
+    background-color: pink;
     background-image: url("https://github.com/Guillermotopp/Proyecto2/blob/main/img/Fondo.jpg");
     height: 100vh;
     color: #fff;
